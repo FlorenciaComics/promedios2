@@ -1,0 +1,19 @@
+table tr td{
+    border:1px dotted rgb(255, 255, 255);
+    text-align: center;
+    padding:10px;
+    font-style: italic;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(255, 255, 255) !important;
+    background-color:rgb(0, 0, 0) !important;
+    text-align: center !important;
+}
+#container {
+    display:flex;
+    justify-content: center;
+}
+th {
+    font-weight: normal;
+}
